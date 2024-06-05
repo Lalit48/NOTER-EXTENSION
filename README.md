@@ -11,6 +11,8 @@ The **NOTER** Chrome extension is a simple yet powerful tool designed to help yo
 - **New Note File:** Start a new note file with a simple button click, allowing you to organize your notes into separate files for different subjects or meetings.
 - **User-Friendly Design:** Features rounded corners and an intuitive layout for a seamless user experience.
 
+![image](https://github.com/Lalit48/NOTER-EXTENSION/assets/132306853/46dded07-d72a-4250-94b7-76dd688de2a4)
+
 **How to Use:**
 1. **Save Notes:** Enter your notes in the provided text area and click the "Save Note" button to save them.
 2. **Export Notes:** Click the "Export Notes" button to download your notes as a text file named `notes.txt`.
